@@ -362,3 +362,27 @@ a {
   position: relative;
   z-index: 99;
 }
+
+.gthi {
+  width: 397.4px;
+  padding: 43px 0 316px 40px;
+}
+
+.grade {
+  display: flex;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 14px 0 34px 0;
+}
+
+.grade em {
+  margin-left: 5px;
+}
+
+.t2 {
+  margin-left: 16px;
+}
+
+.grade .fa-solid {
+color: rgb(102, 194, 206);
+}
